@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: announcements | Phil 540]]></title>
+  <link href="http://apc.github.com/phil540/blog/categories/announcements/atom.xml" rel="self"/>
+  <link href="http://apc.github.com/phil540/"/>
+  <updated>2013-01-08T17:03:35-08:00</updated>
+  <id>http://apc.github.com/phil540/</id>
+  <author>
+    <name><![CDATA[Alejandro Pérez Carballo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Readings for our first meeting]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/01/08/syllabus/"/>
+    <updated>2013-01-08T16:48:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/01/08/syllabus</id>
+    <content type="html"><![CDATA[<p>A draft of the <a href="http://dl.dropbox.com/u/2015884/phil540.pdf">course syllabus</a> is now online. For the first day of class, you should read:</p>
+
+<ul>
+<li>Michael Smith's <a href="http://www.oxfordscholarship.com.libproxy.usc.edu/view/10.1093/0195145399.001.0001/acprof-9780195145397">handbook</a> article on <a href="http://www.oxfordscholarship.com.libproxy.usc.edu/view/10.1093/0195145399.001.0001/acprof-9780195145397-chapter-5">Humean Rationality</a>.</li>
+<li>Lloyd Humberstone's `<a href="http://www.jstor.org/stable/10.2307/2254119">Direction of fit</a>'.</li>
+</ul>
+
+
+<p>If you haven't yet, I recommend you also take a look at <a href="http://www.gutenberg.org/files/4705/4705-h/4705-h.htm#link2H_4_0075">Section iii of Part III of Book II</a> of Hume's <a href="http://www.gutenberg.org/ebooks/4705"><em>Treatise</em></a>.</p>
+
+<p>I will upload a pdf version of chapter 4 of Smith's <em>The Moral Problem</em> in the next few days. This is not required reading, but is worth taking a look.</p>
+]]></content>
+  </entry>
+  
+</feed>
