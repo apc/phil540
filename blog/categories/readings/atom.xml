@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: readings | Phil 540]]></title>
+  <link href="http://apc.github.com/phil540/blog/categories/readings/atom.xml" rel="self"/>
+  <link href="http://apc.github.com/phil540/"/>
+  <updated>2013-01-12T11:09:50-08:00</updated>
+  <id>http://apc.github.com/phil540/</id>
+  <author>
+    <name><![CDATA[Alejandro Pérez Carballo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Optional reading for 1/15]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/01/12/smith-chapter-4/"/>
+    <updated>2013-01-12T11:04:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/01/12/smith-chapter-4</id>
+    <content type="html"><![CDATA[<p>A follow-up to the <a href="http://perezcarballo.org/phil540/blog/2013/01/08/syllabus/">previous post</a>: <a href="http://dl.dropbox.com/u/2015884/Smith.TMP.Ch4.pdf">Here</a> is a link to Chapter 4 of Michael Smith's <em>The Moral Problem</em>.</p>
+]]></content>
+  </entry>
+  
+</feed>
