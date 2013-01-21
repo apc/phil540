@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 540]]></title>
   <link href="http://apc.github.com/phil540/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-01-21T10:26:08-08:00</updated>
+  <updated>2013-01-21T10:31:43-08:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Addendum: Readings for 1/22]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/01/21/addendum-readings-1-22/"/>
+    <updated>2013-01-21T10:27:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/01/21/addendum-readings-1-22</id>
+    <content type="html"><![CDATA[<p>I strongly encourage you to look at <a href="http://www.jstor.org/stable/2254563">the sequel</a> to <a href="http://www.jstor.org/stable/10.2307/2255078">&#8216;Desire as Belief&#8217;</a>. I will go over both formulations of the argument, but the one in the later paper is probably easier to follow.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Readings for 1/22]]></title>
