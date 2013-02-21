@@ -4,7 +4,7 @@
   <title><![CDATA[Category: announcements | Phil 540]]></title>
   <link href="http://apc.github.com/phil540/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-02-17T13:54:26-08:00</updated>
+  <updated>2013-02-21T08:35:32-08:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Next week]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/02/21/next-week/"/>
+    <updated>2013-02-21T08:28:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/02/21/next-week</id>
+    <content type="html"><![CDATA[<p>The readings for next week are now listed <a href="">here</a>.</p>
+
+<p>I will update the reading schedule shortly, once I get a better sense of when our second make up session will be. If you are concerned about what material you will present on, in light of the date you signed up for, please let me know.</p>
+
+<p>Finally, for those of you who are taking the seminar for credit, remember that you need to write <em>three response pieces</em>, and that you need to schedule a meeting to talk to me about your seminar paper by March 31st.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Make up session]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/02/21/make-up-session/"/>
+    <updated>2013-02-21T08:22:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/02/21/make-up-session</id>
+    <content type="html"><![CDATA[<p>The people have spoken. The first make up session of the semester is scheduled for Thursday, March 7 2013, at 4:30pm. More details (location, etc.) to follow.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Presentations and make up sessions]]></title>
@@ -39,25 +61,6 @@
     <content type="html"><![CDATA[<p>Next week we will start by discussing Smith's <a href="http://www.oxfordscholarship.com/view/10.1093/0195145399.001.0001/acprof-9780195145397">'Humean Rationality'</a> (which was assigned for <a href="">last week</a> -- please remember to bring your copy of the handout!). We will then move on to talk about Lewis' <a href="http://www.jstor.org/stable/10.2307/2255078">'Desire as Belief'</a>. (You can also take a look at <a href="http://www.jstor.org/stable/2254563">the sequel</a> if you're so inclined.)</p>
 
 <p><a href="http://perezcarballo.org/phil540/readings/">Remember</a>: you can use the USC library <a href="javascript:void(location.href='http://'+location.host+'.libproxy.usc.edu'+location.pathname+location.search)">bookmarklet</a> to access the readings if you are off- campus.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Readings for our first meeting]]></title>
-    <link href="http://apc.github.com/phil540/blog/2013/01/08/syllabus/"/>
-    <updated>2013-01-08T16:48:00-08:00</updated>
-    <id>http://apc.github.com/phil540/blog/2013/01/08/syllabus</id>
-    <content type="html"><![CDATA[<p>A draft of the <a href="http://dl.dropbox.com/u/2015884/syllabi/phil540.pdf">course syllabus</a> is now online. For the first day of class, you should read:</p>
-
-<ul>
-<li>Michael Smith's <a href="http://www.oxfordscholarship.com.libproxy.usc.edu/view/10.1093/0195145399.001.0001/acprof-9780195145397">handbook</a> article on <a href="http://www.oxfordscholarship.com.libproxy.usc.edu/view/10.1093/0195145399.001.0001/acprof-9780195145397-chapter-5">Humean Rationality</a>.</li>
-<li>Lloyd Humberstone's <a href="http://www.jstor.org/stable/10.2307/2254119">'Direction of fit'</a>.</li>
-</ul>
-
-
-<p>If you haven't yet, I recommend you also take a look at <a href="http://www.gutenberg.org/files/4705/4705-h/4705-h.htm#link2H_4_0075">Section iii of Part III of Book II</a> of Hume's <a href="http://www.gutenberg.org/ebooks/4705"><em>Treatise</em></a>.</p>
-
-<p>I will upload a pdf version of chapter 4 of Smith's <em>The Moral Problem</em> in the next few days. This is not required reading, but is worth taking a look.</p>
 ]]></content>
   </entry>
   
