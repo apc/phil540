@@ -4,7 +4,7 @@
   <title><![CDATA[Category: announcements | Phil 540]]></title>
   <link href="http://apc.github.com/phil540/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-02-21T08:37:20-08:00</updated>
+  <updated>2013-02-24T20:35:15-08:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Make up session 2]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/02/24/make-up-session-2/"/>
+    <updated>2013-02-24T20:33:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/02/24/make-up-session-2</id>
+    <content type="html"><![CDATA[<p>Thanks to all of you for letting your preferences be known. By popular demand, we will have our second make up session on Thursday, April 18th at 4:30pm. More details to follow soon.</p>
+
+<p>I will update the reading schedule in the next couple of days.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Next week]]></title>
@@ -50,17 +61,6 @@
     <updated>2013-01-21T10:27:00-08:00</updated>
     <id>http://apc.github.com/phil540/blog/2013/01/21/addendum-readings-1-22</id>
     <content type="html"><![CDATA[<p>I strongly encourage you to look at <a href="http://www.jstor.org/stable/2254563">the sequel</a> to <a href="http://www.jstor.org/stable/10.2307/2255078">'Desire as Belief'</a>. I will go over both formulations of the argument, but the one in the later paper is probably easier to follow.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Readings for 1/22]]></title>
-    <link href="http://apc.github.com/phil540/blog/2013/01/18/readings-for-1-slash-22/"/>
-    <updated>2013-01-18T08:39:00-08:00</updated>
-    <id>http://apc.github.com/phil540/blog/2013/01/18/readings-for-1-slash-22</id>
-    <content type="html"><![CDATA[<p>Next week we will start by discussing Smith's <a href="http://www.oxfordscholarship.com/view/10.1093/0195145399.001.0001/acprof-9780195145397">'Humean Rationality'</a> (which was assigned for <a href="">last week</a> -- please remember to bring your copy of the handout!). We will then move on to talk about Lewis' <a href="http://www.jstor.org/stable/10.2307/2255078">'Desire as Belief'</a>. (You can also take a look at <a href="http://www.jstor.org/stable/2254563">the sequel</a> if you're so inclined.)</p>
-
-<p><a href="http://perezcarballo.org/phil540/readings/">Remember</a>: you can use the USC library <a href="javascript:void(location.href='http://'+location.host+'.libproxy.usc.edu'+location.pathname+location.search)">bookmarklet</a> to access the readings if you are off- campus.</p>
 ]]></content>
   </entry>
   

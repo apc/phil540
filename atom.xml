@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 540]]></title>
   <link href="http://apc.github.com/phil540/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-02-21T08:37:20-08:00</updated>
+  <updated>2013-02-24T20:35:15-08:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Make up session 2]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/02/24/make-up-session-2/"/>
+    <updated>2013-02-24T20:33:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/02/24/make-up-session-2</id>
+    <content type="html"><![CDATA[<p>Thanks to all of you for letting your preferences be known. By popular demand, we will have our second make up session on Thursday, April 18th at 4:30pm. More details to follow soon.</p>
+
+<p>I will update the reading schedule in the next couple of days.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Next week]]></title>
