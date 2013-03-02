@@ -4,7 +4,7 @@
   <title><![CDATA[Category: announcements | Phil 540]]></title>
   <link href="http://apc.github.com/phil540/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-03-01T17:44:46-08:00</updated>
+  <updated>2013-03-01T17:50:37-08:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Readings for next week]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/03/01/readings-for-next-week/"/>
+    <updated>2013-03-01T17:45:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/03/01/readings-for-next-week</id>
+    <content type="html"><![CDATA[<p>The readings for next week are now listed <a href="http://perezcarballo.org/phil540/readings/">here</a>.</p>
+
+<p>I have updated the schedule until the first meeting after Spring Break. I will post the rest of the reading schedule shortly.</p>
+
+<p>If you are presenting on any given date, you are free to focus on one of the assigned readings, or a part thereof. But make sure to let me know in advance what you will be presenting on.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Make up session 2]]></title>
@@ -52,15 +65,6 @@
     <updated>2013-02-17T13:44:00-08:00</updated>
     <id>http://apc.github.com/phil540/blog/2013/02/17/presentations-and-make-up-sessions</id>
     <content type="html"><![CDATA[<p>You should have all received two different emails asking you to fill out two <a href="https://doodle.com/">Doodle</a> polls. One is for scheduling in-class presentations. The other one is for scheduling make up sessions. Please <a href="mailto:&#x61;&#x70;&#x65;&#x72;&#x65;&#x7A;&#x63;&#x61;&#x40;&#x75;&#x73;&#x63;&#x2E;&#x65;&#x64;&#x75;">contact me</a> as soon as possible if you did not receive either of those two emails.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Addendum: Readings for 1/22]]></title>
-    <link href="http://apc.github.com/phil540/blog/2013/01/21/addendum-readings-1-22/"/>
-    <updated>2013-01-21T10:27:00-08:00</updated>
-    <id>http://apc.github.com/phil540/blog/2013/01/21/addendum-readings-1-22</id>
-    <content type="html"><![CDATA[<p>I strongly encourage you to look at <a href="http://www.jstor.org/stable/2254563">the sequel</a> to <a href="http://www.jstor.org/stable/10.2307/2255078">'Desire as Belief'</a>. I will go over both formulations of the argument, but the one in the later paper is probably easier to follow.</p>
 ]]></content>
   </entry>
   
