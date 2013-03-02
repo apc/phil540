@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 540]]></title>
   <link href="http://apc.github.com/phil540/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-03-01T17:51:18-08:00</updated>
+  <updated>2013-03-01T17:58:46-08:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Presentation schedule]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/03/01/presentation-schedule/"/>
+    <updated>2013-03-01T17:56:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/03/01/presentation-schedule</id>
+    <content type="html"><![CDATA[<p>The presentation schedule is now available on <a href="http://perezcarballo.org/phil540/calendar/">the course calendar</a>. Please let me know if you have any concerns about the date you were assigned. If you are taking this seminar for credit, but are not on the seminar calendar, please contact me as soon as possible.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Readings for next week]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: announcements | Phil 540]]></title>
   <link href="http://apc.github.com/phil540/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-03-01T17:51:18-08:00</updated>
+  <updated>2013-03-01T17:58:46-08:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Presentation schedule]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/03/01/presentation-schedule/"/>
+    <updated>2013-03-01T17:56:00-08:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/03/01/presentation-schedule</id>
+    <content type="html"><![CDATA[<p>The presentation schedule is now available on <a href="http://perezcarballo.org/phil540/calendar/">the course calendar</a>. Please let me know if you have any concerns about the date you were assigned. If you are taking this seminar for credit, but are not on the seminar calendar, please contact me as soon as possible.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Readings for next week]]></title>
@@ -56,15 +65,6 @@
     <updated>2013-02-21T08:22:00-08:00</updated>
     <id>http://apc.github.com/phil540/blog/2013/02/21/make-up-session</id>
     <content type="html"><![CDATA[<p>The people have spoken. The first make up session of the semester is scheduled for Thursday, March 7 2013, at 4:30pm. More details (location, etc.) to follow.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Presentations and make up sessions]]></title>
-    <link href="http://apc.github.com/phil540/blog/2013/02/17/presentations-and-make-up-sessions/"/>
-    <updated>2013-02-17T13:44:00-08:00</updated>
-    <id>http://apc.github.com/phil540/blog/2013/02/17/presentations-and-make-up-sessions</id>
-    <content type="html"><![CDATA[<p>You should have all received two different emails asking you to fill out two <a href="https://doodle.com/">Doodle</a> polls. One is for scheduling in-class presentations. The other one is for scheduling make up sessions. Please <a href="mailto:&#x61;&#x70;&#x65;&#x72;&#x65;&#x7A;&#x63;&#x61;&#x40;&#x75;&#x73;&#x63;&#x2E;&#x65;&#x64;&#x75;">contact me</a> as soon as possible if you did not receive either of those two emails.</p>
 ]]></content>
   </entry>
   
