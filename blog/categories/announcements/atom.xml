@@ -4,7 +4,7 @@
   <title><![CDATA[Category: announcements | Phil 540]]></title>
   <link href="http://apc.github.com/phil540/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-03-10T11:41:26-07:00</updated>
+  <updated>2013-03-10T11:53:26-07:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Updates]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/03/10/updates/"/>
+    <updated>2013-03-10T11:42:00-07:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/03/10/updates</id>
+    <content type="html"><![CDATA[<p>A few things:</p>
+
+<ul>
+<li>I have updated the <a href="http://perezcarballo.org/phil540/readings/">reading schedule</a> for the rest of the semester. Please <a href="http://perezcarballo.org/phil540/readings/">take a look</a>, especially if you will be giving an in-class presentation (you will notice it differs a fair bit from the tentative schedule on the syllabus).</li>
+<li>A final reminder to those of you taking this class for credit: you need to submit <em>three short response pieces</em> before the end of the semester. If you are writing on something we are reading for a given Tuesday, your response piece is due on the previous Sunday.</li>
+<li>Also for those of you taking this class for credit: you should be thinking about scheduling a meeting with me to discuss your final paper. On the syllabus it is stated that this meeting should take place before March 31st. Since I had miscalculated when Spring break was going to be, I have decided to move that date forward until April 2.</li>
+</ul>
+
+
+<p>Let me know if you have any questions.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Room for tomorrow's meeting]]></title>
@@ -52,19 +70,6 @@
     <content type="html"><![CDATA[<p>Thanks to all of you for letting your preferences be known. By popular demand, we will have our second make up session on Thursday, April 18th at 4:30pm. More details to follow soon.</p>
 
 <p>I will update the reading schedule in the next couple of days.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next week]]></title>
-    <link href="http://apc.github.com/phil540/blog/2013/02/21/next-week/"/>
-    <updated>2013-02-21T08:28:00-08:00</updated>
-    <id>http://apc.github.com/phil540/blog/2013/02/21/next-week</id>
-    <content type="html"><![CDATA[<p>The readings for next week are now listed <a href="http://perezcarballo.org/phil540/readings/">here</a>.</p>
-
-<p>I will update the reading schedule shortly, once I get a better sense of when our second make up session will be. If you are concerned about what material you will present on, in light of the date you signed up for, please let me know.</p>
-
-<p>Finally, for those of you who are taking the seminar for credit, remember that you need to write <em>three response pieces</em>, and that you need to schedule a meeting to talk to me about your seminar paper by March 31st.</p>
 ]]></content>
   </entry>
   

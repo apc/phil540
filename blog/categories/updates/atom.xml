@@ -4,7 +4,7 @@
   <title><![CDATA[Category: updates | Phil 540]]></title>
   <link href="http://apc.github.com/phil540/blog/categories/updates/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-03-10T11:41:26-07:00</updated>
+  <updated>2013-03-10T11:53:26-07:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Updates]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/03/10/updates/"/>
+    <updated>2013-03-10T11:42:00-07:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/03/10/updates</id>
+    <content type="html"><![CDATA[<p>A few things:</p>
+
+<ul>
+<li>I have updated the <a href="http://perezcarballo.org/phil540/readings/">reading schedule</a> for the rest of the semester. Please <a href="http://perezcarballo.org/phil540/readings/">take a look</a>, especially if you will be giving an in-class presentation (you will notice it differs a fair bit from the tentative schedule on the syllabus).</li>
+<li>A final reminder to those of you taking this class for credit: you need to submit <em>three short response pieces</em> before the end of the semester. If you are writing on something we are reading for a given Tuesday, your response piece is due on the previous Sunday.</li>
+<li>Also for those of you taking this class for credit: you should be thinking about scheduling a meeting with me to discuss your final paper. On the syllabus it is stated that this meeting should take place before March 31st. Since I had miscalculated when Spring break was going to be, I have decided to move that date forward until April 2.</li>
+</ul>
+
+
+<p>Let me know if you have any questions.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Presentation schedule]]></title>
@@ -54,15 +72,6 @@
 <p>But the bulk of our discussion will revolve around <a href="http://www.oxfordscholarship.com/view/10.1093/019824908X.001.0001/acprof-9780198249085-chapter-6">Chapter 6</a> of <em>Reasons and Persons</em>.</p>
 
 <p>(Note: There is a typo in the syllabus, I will fix it when I'm back in LA. The reading is <em>not</em> chapter 1, but chapter 6.)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Addendum: Readings for 1/22]]></title>
-    <link href="http://apc.github.com/phil540/blog/2013/01/21/addendum-readings-1-22/"/>
-    <updated>2013-01-21T10:27:00-08:00</updated>
-    <id>http://apc.github.com/phil540/blog/2013/01/21/addendum-readings-1-22</id>
-    <content type="html"><![CDATA[<p>I strongly encourage you to look at <a href="http://www.jstor.org/stable/2254563">the sequel</a> to <a href="http://www.jstor.org/stable/10.2307/2255078">'Desire as Belief'</a>. I will go over both formulations of the argument, but the one in the later paper is probably easier to follow.</p>
 ]]></content>
   </entry>
   
