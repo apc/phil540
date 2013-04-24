@@ -4,7 +4,7 @@
   <title><![CDATA[Category: readings | Phil 540]]></title>
   <link href="http://apc.github.com/phil540/blog/categories/readings/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-04-17T17:40:40-07:00</updated>
+  <updated>2013-04-23T21:19:46-07:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Following up]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/04/23/following-up/"/>
+    <updated>2013-04-23T20:40:00-07:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/04/23/following-up</id>
+    <content type="html"><![CDATA[<p>Some of you asked for some references on the issues we discussed at the end of class today. Here they are, in alphabetical order:</p>
+
+<ul>
+<li>E. Anderson's <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=74339">'contribution'</a> to a symposium on Amartya Sen's philosophy.</li>
+<li>C. Bicchieri, <a href="http://www.jstor.org/stable/2381782">'Norms of cooperation'</a>.</li>
+<li>M. Gilbert, <a href="http://pos.sagepub.com/content/36/1/3.short">'Rationality in Collective Action'</a>.</li>
+<li>S. Nichols, <a href="http://www.jstor.org/stable/10.1086/341051">'On The Genealogy Of Norms: A Case For The Role Of Emotion In Cultural Evolution'</a>.</li>
+<li>A. Rosenberg, <a href="https://www.dropbox.com/s/yjk0eeybxsn19qi/Rosenberg.pdf">'Darwinism in moral philosophy and social theory'</a>.</li>
+</ul>
+
+
+<p>Also worth checking out, although I can't give you an electronic version of them, are:</p>
+
+<ul>
+<li>R. Frank,  'Cooperation through emotional commitment', in R. Nesse, et al., <em>The Evolution of Commitment</em>, pp. 57–76.</li>
+<li>Skyrms, <em>The Evolution of the Social Contract</em>.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Additional references]]></title>
@@ -54,17 +80,6 @@
     <updated>2013-01-21T10:27:00-08:00</updated>
     <id>http://apc.github.com/phil540/blog/2013/01/21/addendum-readings-1-22</id>
     <content type="html"><![CDATA[<p>I strongly encourage you to look at <a href="http://www.jstor.org/stable/2254563">the sequel</a> to <a href="http://www.jstor.org/stable/10.2307/2255078">'Desire as Belief'</a>. I will go over both formulations of the argument, but the one in the later paper is probably easier to follow.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Readings for 1/22]]></title>
-    <link href="http://apc.github.com/phil540/blog/2013/01/18/readings-for-1-slash-22/"/>
-    <updated>2013-01-18T08:39:00-08:00</updated>
-    <id>http://apc.github.com/phil540/blog/2013/01/18/readings-for-1-slash-22</id>
-    <content type="html"><![CDATA[<p>Next week we will start by discussing Smith's <a href="http://www.oxfordscholarship.com/view/10.1093/0195145399.001.0001/acprof-9780195145397">'Humean Rationality'</a> (which was assigned for <a href="">last week</a> -- please remember to bring your copy of the handout!). We will then move on to talk about Lewis' <a href="http://www.jstor.org/stable/10.2307/2255078">'Desire as Belief'</a>. (You can also take a look at <a href="http://www.jstor.org/stable/2254563">the sequel</a> if you're so inclined.)</p>
-
-<p><a href="http://perezcarballo.org/phil540/readings/">Remember</a>: you can use the USC library <a href="javascript:void(location.href='http://'+location.host+'.libproxy.usc.edu'+location.pathname+location.search)">bookmarklet</a> to access the readings if you are off- campus.</p>
 ]]></content>
   </entry>
   
