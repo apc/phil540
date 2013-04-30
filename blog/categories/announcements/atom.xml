@@ -4,7 +4,7 @@
   <title><![CDATA[Category: announcements | Phil 540]]></title>
   <link href="http://apc.github.com/phil540/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://apc.github.com/phil540/"/>
-  <updated>2013-04-23T21:21:25-07:00</updated>
+  <updated>2013-04-29T19:00:29-07:00</updated>
   <id>http://apc.github.com/phil540/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Final paper]]></title>
+    <link href="http://apc.github.com/phil540/blog/2013/04/29/final-paper/"/>
+    <updated>2013-04-29T18:46:00-07:00</updated>
+    <id>http://apc.github.com/phil540/blog/2013/04/29/final-paper</id>
+    <content type="html"><![CDATA[<p>If you are enrolled in the seminar for credit, you must submit a final paper. Papers are due on <strong>Monday May 13, 2013</strong>, by email. If at all possible, please send your papers in PDF format.</p>
+
+<p>Tomorrow is the last day I will be holding regular office hours. That said, if you want to talk to me about your paper, simply <a href="mailto:&amp;#x61;&amp;#x70;&amp;#x65;&amp;#x72;&amp;#x65;&amp;#x7A;&amp;#x63;&amp;#x61;&amp;#x40;&amp;#x75;&amp;#x73;&amp;#x63;&amp;#x2E;&amp;#x65;&amp;#x64;&amp;#x75;">email me</a> so we can set up a time to meet.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Additional references]]></title>
@@ -55,19 +66,6 @@
     <updated>2013-03-01T17:56:00-08:00</updated>
     <id>http://apc.github.com/phil540/blog/2013/03/01/presentation-schedule</id>
     <content type="html"><![CDATA[<p>The presentation schedule is now available on <a href="http://perezcarballo.org/phil540/calendar/">the course calendar</a>. Please let me know if you have any concerns about the date you were assigned. If you are taking this seminar for credit, but are not on the seminar calendar, please contact me as soon as possible.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Readings for next week]]></title>
-    <link href="http://apc.github.com/phil540/blog/2013/03/01/readings-for-next-week/"/>
-    <updated>2013-03-01T17:45:00-08:00</updated>
-    <id>http://apc.github.com/phil540/blog/2013/03/01/readings-for-next-week</id>
-    <content type="html"><![CDATA[<p>The readings for next week are now listed <a href="http://perezcarballo.org/phil540/readings/">here</a>.</p>
-
-<p>I have updated the schedule until the first meeting after Spring Break. I will post the rest of the reading schedule shortly.</p>
-
-<p>If you are presenting on any given date, you are free to focus on one of the assigned readings, or a part thereof. But make sure to let me know in advance what you will be presenting on.</p>
 ]]></content>
   </entry>
   
